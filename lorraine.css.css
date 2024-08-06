@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color: lilas;
+    background-color: blue;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,13 +12,13 @@ body {
 
 #container {
     text-align: center;
-    background-color: purple;
+    background-color: darkblue;
     padding: 20px;
     border-radius: 10px;
 }
 
 h1, h2 {
-    color: lilas;
+    color: white;
     font-size: 15px;
 }
 
@@ -34,7 +34,7 @@ h2 {
 }
 
 #buttons button {
-    background-color: lilas;
+    background-color: cyan;
     color: black;
     border: none;
     padding: 10px 20px;
@@ -44,5 +44,5 @@ h2 {
 }
 
 #buttons button:hover {
-    background-color: darkmagenta;
+    background-color: darkblue;
 }
